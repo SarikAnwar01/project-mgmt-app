@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "name-of-your-vercel-app",
+  "name": "PGTMT",
   "builds": [{ "src": "script.js", "use": "@vercel/node" }],
   "routes": [{ "src": "/(.*)", "dest": "/index.js" }]
 }
